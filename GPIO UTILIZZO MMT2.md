@@ -17,4 +17,3 @@ UTILIZZO dei GPIO nella versione MMT2
 | PD1      | FREE             | ADC INPUT BATTERY STATUS VOLTAGE     | ADC           |
 | PB1      | R6               | WAKE UP FROM SLEEP                   | EM4WU3        |
 
-Adesso dovrebbe essere ben leggibile. Se hai altre richieste, fammi sapere!
